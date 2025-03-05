@@ -26,7 +26,10 @@ Results:
 The program returns a feasible assignment that meets all academic criteria (subject, availability, costs, etc.).
 It also offers transparency in decision making, showing how much each component contributes to the overall cost.
 
-My Qualities in Data Science
+
+
+This project demonstrates my ability to combine data analytics, mathematical optimization and Python programming for practical purposes and tangible impact on the organization of academic resources.
+
 
 Mathematical Modeling: Formulation of problems using Linear Programming (definition of variables, objective function, and restrictions).
 
@@ -38,4 +41,3 @@ Automation and Reporting: Automatic generation of Excel reports and clear deploy
 
 Flexibility and Scalability: Modular design that allows adaptation to different scenarios (changes of teachers, subjects or restrictions).
 
-This project demonstrates my ability to combine data analytics, mathematical optimization and Python programming for practical purposes and tangible impact on the organization of academic resources.
