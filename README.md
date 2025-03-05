@@ -31,13 +31,5 @@ It also offers transparency in decision making, showing how much each component 
 This project demonstrates my ability to combine data analytics, mathematical optimization and Python programming for practical purposes and tangible impact on the organization of academic resources.
 
 
-Mathematical Modeling: Formulation of problems using Linear Programming (definition of variables, objective function, and restrictions).
 
-Data Manipulation: Reading and preprocessing information in Excel with pandas.
-
-Optimization: Use of specialized libraries (pulp) to solve complex Scheduling problems.
-
-Automation and Reporting: Automatic generation of Excel reports and clear deployment of the solution.
-
-Flexibility and Scalability: Modular design that allows adaptation to different scenarios (changes of teachers, subjects or restrictions).
 
